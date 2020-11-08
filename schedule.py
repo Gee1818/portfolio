@@ -21,7 +21,7 @@ p2Min = p2
 scheduleInMinutes(p1,p1Min)
 scheduleInMinutes(p2,p2Min)
 mergedSch = p1Min+p2Min
-print(mergedSch)
+#print(mergedSch)
 mergedSch.sort
 print(mergedSch)
 sort(mergedSch)
